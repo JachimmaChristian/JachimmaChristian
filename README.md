@@ -12,7 +12,7 @@ All through data-informed decisions.
 
 With multiple certifications from top industry leaders in the technology space, Jachimma Christian can be trusted to always deliver!
 
-You can preview some of his projects from the Repositories section of Github. 
+You can preview some of his projects from the [Repositories](https://github.com/JachimmaChristian?tab=repositories) section of Github. 
 
 You're welcome to reach out to him if you want to collaborate on data-related tasks and projects.
 
