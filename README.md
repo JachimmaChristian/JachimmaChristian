@@ -4,7 +4,7 @@
 Jachimma Christian is a data analyst with a practical understanding of how to use data for business success to provide actionable insights that empower organizations
 to make informed decisions and drive growth. 
 
-In clear concise terms, Jachimma aims to use his skills as a data ninja to help you:
+In clear concise terms, Jachimma aims to use his skills as a data analyst to help you:
 1. 10X your business growth and increase profit
 2. Help you save money and optimize lead time
 
