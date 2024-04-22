@@ -7,11 +7,11 @@ With strong expertise in handling large datasets and complex analytical tasks us
 
 Preview some of my projects from the [Repositories](https://github.com/JachimmaChristian?tab=repositories) section of Github. 
 
-When I'm not learning or working on a project you'd find me listening to my favorite podcasts or watching "Suits" or "Big Bang Theory" on Netflix for the nth time :)
+When I'm not learning or working on a project you'd find me listening to my favorite podcasts or watching "Suits" or "Big Bang Theory" on Netflix for the nth time.
 
 To get in touch, send an email or message me on LinkedIn. 
 
-I don't bite! :D 
+I don't bite!
 
 ## Welcome again!
 
