@@ -1,20 +1,17 @@
-## Hello! Welcome to Jachimma Christian's Github profile page
-**_First of all introduction right?_** 😉
+## Hello! Welcome to My Github profile:
 
-Jachimma Christian is a data analyst with a practical understanding of how to use data for business success to provide actionable insights that empower organizations
+I am a data analyst with a practical understanding of how to use data for business success, providing actionable insights that empower organizations
 to make informed decisions and drive growth. 
 
-In clear concise terms, Jachimma aims to use his skills as a data analyst to help you:
-1. 10X your business growth and increase profit
-2. Help you save money and optimize lead time
+With strong expertise in handling large datasets and complex analytical tasks using programming technologies(SQL & Python) and business intelligence tools(Power BI and Looker Studio) you can always count on me to fix you data related challenges!
 
-All through data-informed decisions. 
+You can preview some of my projects from the [Repositories](https://github.com/JachimmaChristian?tab=repositories) section of Github. 
 
-With multiple certifications from top industry leaders in the technology space, Jachimma Christian can be trusted to always deliver!
+When I'm not learning or working on a project you'd find me listening to my favorite podcasts or watching "Suits" or "Big Bang Theory" on Netflix for the nth time :)
 
-You can preview some of his projects from the [Repositories](https://github.com/JachimmaChristian?tab=repositories) section of Github. 
+To get in touch, send an email or message me on LinkedIn. 
 
-You're welcome to reach out to him if you want to collaborate on data-related tasks and projects.
+I don't bite! :D 
 
 ## Welcome again!
 
