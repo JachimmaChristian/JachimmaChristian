@@ -1,4 +1,4 @@
-# Hello and Welcome to My Github profile!
+## Hello and Welcome to My Github profile!
 <details>
 <summary><b> 🙋🏽‍♂ About Me (Click to view): </b></summary>
   <p> 
@@ -15,6 +15,8 @@ I enjoy brainstorming and coordinating efforts to achieve a common goal.
 Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!     
   </p>
  </details>
+
+ ## Projects
  
 <!---
 JachimmaChristian/JachimmaChristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
