@@ -1,6 +1,6 @@
 # Hello and Welcome to My Github profile!
 <details>
-<summary> 🙋🏽‍♂ About Me (Click to view): </summary>
+<summary><b> 🙋🏽‍♂ About Me (Click to view): </b></summary>
   <p> 
 I'm a Data analyst keen to answer business questions by analyzing data for business growth. I have a background in Engineering, Materials & Metallurgical Engineering to be precise with strong project management skills honed through my work experience as a project manager for over 3years. 
 
