@@ -22,6 +22,29 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
  **Business Intelligence Tools:** MS Excel, Google Looker Studio, MS PowerBI
 
  **Version Control:** Git
+
+ ## 📚Projects
+ 
+ ### SQL
+ <details>
+   <summary> Click to view
+   </summary>
+   <p> </p>
+ </details>
+ 
+ ### Python
+  <details>
+   <summary> Click to view
+   </summary>
+   <p> </p>
+ </details>
+ 
+ ### MS PowerBI
+ <details>
+   <summary> Click to view
+   </summary>
+   <p> </p>
+ </details>
  
 <!---
 JachimmaChristian/JachimmaChristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
