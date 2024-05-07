@@ -31,6 +31,8 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </summary>
    <p><a href= "https://github.com/JachimmaChristian/Hotel-Operations-SQL-/blob/main/README.md"> Hotel Operations - PostgreSQL
    </a></p>
+   <p><a href= "https://github.com/JachimmaChristian/Analyzing-Students-Mental-Health-Data-SQL/blob/main/README.md"> Analyzing Student's Mental Health Data - SQL
+   </a></p>
  </details>
  
  ### Python
