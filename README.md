@@ -29,7 +29,8 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
  <details>
    <summary> Click to view
    </summary>
-   <p> </p>
+   <p><a href= "https://github.com/JachimmaChristian/Hotel-Operations-SQL-/blob/main/README.md"> Hotel Operations - PostgreSQL
+   </a></p>
  </details>
  
  ### Python
