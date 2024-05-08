@@ -1,4 +1,4 @@
-## Hello and Welcome to My Github profile!
+## Hello and Welcome to My Github profile!👋🏽
 <details>
 <summary><b> 🙋🏽‍♂ About Me (Click to view): </b></summary>
   <p> 
@@ -26,13 +26,15 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
  ## 📚Projects
  
  ### SQL
- <details>
-   <summary> Click to view
+<details>
+  <summary> Click to view
    </summary>
-   <p><a href= "https://github.com/JachimmaChristian/Hotel-Operations-SQL-/blob/main/README.md"> Hotel Operations - PostgreSQL
-   </a></p>
-   <p><a href= "https://github.com/JachimmaChristian/Analyzing-Students-Mental-Health-Data-SQL/blob/main/README.md"> Analyzing Student's Mental Health Data - SQL
-   </a></p>
+  <ul>
+   <li><a href= "https://github.com/JachimmaChristian/Hotel-Operations-SQL-/blob/main/README.md"> Hotel Operations - PostgreSQL
+   </a></li>
+   <li><a href= "https://github.com/JachimmaChristian/Analyzing-Students-Mental-Health-Data-SQL/blob/main/README.md"> Analyzing Student's Mental Health Data - SQL
+   </a></li>
+  </ul>
  </details>
  
  ### Python
