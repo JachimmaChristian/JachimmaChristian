@@ -17,9 +17,9 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
  </details>
 
  ## ⚒️ Skills
- **Programming Technologoes:** SQL(PostgreSQL, BigQuery), Python(Pandas, Numpy, Matplotlib, Scipy)
+- **Programming Technologoes:** SQL(PostgreSQL, BigQuery), Python(Pandas, Numpy, Matplotlib, Scipy)
  
- **Business Intelligence Tools:** MS Excel, Google Looker Studio, MS PowerBI
+- **Business Intelligence Tools:** MS Excel, Google Looker Studio, MS PowerBI
 
  **Version Control:** Git
 
