@@ -52,7 +52,7 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
     <ul>
     <li><a href= "https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa">Climate Change and Impacts in Africa
    </a></li>
-    <li><a href= "https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa">Climate Change and Impacts in Africa
+    <li><a href= "https://github.com/JachimmaChristian/Web_Scrapping_With_Python"> Web Scrapping With Python
    </a></li>
     </ul>
  </details>
