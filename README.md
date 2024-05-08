@@ -34,6 +34,8 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </a></li>
    <li><a href= "https://github.com/JachimmaChristian/Analyzing-Students-Mental-Health-Data-SQL/blob/main/README.md"> Analyzing Student's Mental Health Data - SQL
    </a></li>
+   <li><a href= "https://github.com/JachimmaChristian/SQL-Projects-Repo/blob/main/README.md"> Other SQL Projects [Sql Server Management Studio (SSMS) & Bigquery Standard SQL]
+   </a></li>
   </ul>
  </details>
  
