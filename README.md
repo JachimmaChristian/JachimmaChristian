@@ -38,7 +38,7 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </a></li>
   <li><a href= "https://github.com/JachimmaChristian/Video-Game-Analysis-using-Postgresql/blob/main/README.md"> When Was the Golden Era of Video Games? - PostgreSQL
    </a></li>
-    <li><a href= "https://www.datacamp.com/datalab/w/f6b118e5-3576-49a7-9fe9-aebcdce9e72c/edit"> Analyzing International Debt Statistics - PostgreSQL
+    <li><a href= "https://www.datacamp.com/datalab/w/f6b118e5-3576-49a7-9fe9-aebcdce9e72c/edit"> Analyze International Debt Statistics - PostgreSQL
    </a></li>
     <li><a href= "https://www.datacamp.com/datalab/w/b15aa8bc-7886-4514-8812-b8e848ba3778/edit"> Analyzing Motorcycle Part Sales
    </a></li>
@@ -49,7 +49,10 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
   <details>
    <summary> Click to view
    </summary>
-   <p> </p>
+    <ul>
+    <li><a href= "https://www.datacamp.com/datalab/w/b15aa8bc-7886-4514-8812-b8e848ba3778/edit"> Analyzing Motorcycle Part Sales
+   </a></li>
+    </ul>
  </details>
  
  ### MS PowerBI
