@@ -17,7 +17,7 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
  </details>
 
  ## ⚒️ Skills
-- **Programming Technologoes:** SQL(PostgreSQL, BigQuery), Python(Pandas, Numpy, Matplotlib, Scipy)
+- **Programming Technologies:** SQL(PostgreSQL, BigQuery), Python(Pandas, Numpy, Matplotlib, Scipy)
  
 - **Business Intelligence Tools:** MS Excel, Google Looker Studio, MS PowerBI
 
@@ -50,7 +50,7 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    <summary> Click to view
    </summary>
     <ul>
-    <li><a href= "https://www.datacamp.com/datalab/w/b15aa8bc-7886-4514-8812-b8e848ba3778/edit"> Analyzing Motorcycle Part Sales
+    <li><a href= "https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa">Climate Change and Impacts in Africa
    </a></li>
     </ul>
  </details>
