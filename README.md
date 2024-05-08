@@ -36,6 +36,8 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </a></li>
    <li><a href= "https://github.com/JachimmaChristian/SQL-Projects-Repo/blob/main/README.md"> Other SQL Projects [Sql Server Management Studio (SSMS) & Bigquery Standard SQL]
    </a></li>
+  <li><a href= "https://www.datacamp.com/datalab/w/cccdb862-eb37-4318-a2a1-49a2af70c6e2/edit"> When Was the Golden Era of Video Games? - PostgreSQL
+   </a></li>
   </ul>
  </details>
  
