@@ -50,9 +50,13 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    <summary> Click to view
    </summary>
     <ul>
+    <li><a href= "https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python"> Product Sales Analysis
+   </a></li>
     <li><a href= "https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa">Climate Change and Impacts in Africa
    </a></li>
     <li><a href= "https://github.com/JachimmaChristian/Web_Scrapping_With_Python"> Web Scrapping With Python
+   </a></li>
+    <li><a href= "https://github.com/JachimmaChristian/Exploring-NYC-Public-School-Test-Results-Scores-Python/blob/main/notebook.ipynb"> Exploring NYC Public School Test Results Scores Python
    </a></li>
     </ul>
  </details>
