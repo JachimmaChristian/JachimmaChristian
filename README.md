@@ -56,7 +56,7 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </a></li>
     <li><a href= "https://github.com/JachimmaChristian/Web_Scrapping_With_Python"> Web Scrapping With Python
    </a></li>
-    <li><a href= "https://github.com/JachimmaChristian/Exploring-NYC-Public-School-Test-Results-Scores-Python/blob/main/notebook.ipynb"> Exploring NYC Public School Test Results Scores Python
+    <li><a href= "https://github.com/JachimmaChristian/Exploring-NYC-Public-School-Test-Results-Scores-Python/blob/main/notebook.ipynb"> Exploring NYC Public School Test Results Scores
    </a></li>
     </ul>
  </details>
@@ -67,6 +67,10 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </summary>
    <ul> 
     <li><a href= "https://github.com/JachimmaChristian/Analyzing-Healthcare-Data-in-PowerBI"> Analyzing Healthcare Data in PowerBI
+   </a></li>
+     <li><a href= "https://github.com/JachimmaChristian/Supply-Chain-Analytics-Model-in-PowerBI"> Supply Chain Analytics Model
+   </a></li>
+      <li><a href= "https://github.com/JachimmaChristian/Food-Claims-Analysis-With-PowerBI"> Food Claims Analysis
    </a></li>
    </ul> 
  </details>
