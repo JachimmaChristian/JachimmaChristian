@@ -54,7 +54,7 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </a></li>
     <li><a href= "https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa">Climate Change and Impacts in Africa
    </a></li>
-    <li><a href= "https://github.com/JachimmaChristian/Web_Scrapping_With_Python"> Web Scrapping With Python
+    <li><a href= "https://github.com/JachimmaChristian/Web_Scrapping_With_Python"> Web Scrapping With (Beautiful Soup)
    </a></li>
     <li><a href= "https://github.com/JachimmaChristian/Exploring-NYC-Public-School-Test-Results-Scores-Python/blob/main/notebook.ipynb"> Exploring NYC Public School Test Results Scores
    </a></li>
