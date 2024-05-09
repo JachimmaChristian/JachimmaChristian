@@ -24,7 +24,18 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
  **Version Control:** Git
 
  ## 📚Projects
- 
+
+### Forage Job Simulations 
+ <details>
+   <summary> Click to view
+   </summary>
+  <ul>
+    <li><a href ="https://github.com/JachimmaChristian/Forage-Accenture-Internship?tab=readme-ov-file"> Accenture - North America, Virtual Job Simulation
+    </a>  
+    </li>
+  </ul>
+  </details>
+  
  ### SQL
 <details>
   <summary> Click to view
@@ -45,7 +56,7 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
   </ul>
  </details>
  
- ### Python
+  ### Python
   <details>
    <summary> Click to view
    </summary>
