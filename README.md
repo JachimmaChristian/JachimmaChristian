@@ -85,7 +85,12 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </a></li>
    </ul> 
  </details>
- 
+
+ ## 📬Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jachimmachristian/)
+- [Email](christianjachimmachristian@gmail.com)
+- [Twitter](https://twitter.com/_Jachris)
 <!---
 JachimmaChristian/JachimmaChristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
