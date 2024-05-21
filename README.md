@@ -21,7 +21,7 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
  
 - **Business Intelligence Tools:** MS Excel, Google Looker Studio, MS PowerBI
 
- **Version Control:** Git
+ - **Version Control:** Git
 
  ## 📚Projects
 
