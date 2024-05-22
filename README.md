@@ -83,6 +83,8 @@ Outside of data analytics, I'm a reader, and I enjoy watching "Suits"!
    </a></li>
       <li><a href= "https://github.com/JachimmaChristian/Food-Claims-Analysis-With-PowerBI"> Food Claims Analysis
    </a></li>
+      <li><a href= "https://drive.google.com/drive/folders/1w2sahixR7xNoGrV3IV0ru-bNK7s2Ygox?usp=drive_link"> Other PowerBI Dashboards
+      </a></li>
    </ul> 
  </details>
 
